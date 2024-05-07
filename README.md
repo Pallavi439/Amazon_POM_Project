@@ -1,37 +1,63 @@
-                                       ![Pallavi Patil viman nager]
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Pallavi</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Pallavi -->
-
-### 👨🏻‍💻 &nbsp;About Me
-
-💡 &nbsp;I like to Test the software and Automate the web applicate .\
-🎓 &nbsp;I'm have 2.3 years of experience in IT Industery as a Software tester.\
-🌱 &nbsp;I have automatde the Amazon application .\
-✍️ &nbsp;In my free time, i used to automate the application.\
-✉️ &nbsp;You can shoot me an email at pallavi.patil3084@gmail.com! I'll try to respond as soon as I can.\
-
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
-![Testng](https://img.shields.io/badge/-Testng-05122A?style=flat&logo=Testng&logoColor=FFA518)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/Pallavi439">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pallavi439&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://github.com/Pallavi439"><img src="https://img.shields.io/badge/-pallavi.patil3084@gmail.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/pallavi-patil-177360280/"></a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+   
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 20px;">
+    <div style="max-width: 800px; margin: auto;">
+        <h1 style="text-align: center; margin-bottom: 30px;">Amazon Project Scenarios</h1>
+        <ul style="list-style: none; padding: 0;">
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">1️⃣ User Registration:</h2>
+                <p>Testing if a new user can successfully register.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">2️⃣ Login Verification:</h2>
+                <p>Ensuring successful login with correct email and password, and verifying that login fails with incorrect credentials.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">3️⃣ Profile Editing:</h2>
+                <p>Checking if a user can successfully edit their profile information.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">4️⃣ Product Search:</h2>
+                <p>Testing searching for products using keywords like "shoe" and verifying accurate results.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">5️⃣ Filtering Search Results:</h2>
+                <p>Verifying that searching with filters (e.g., category, price range) gives accurate results.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">6️⃣ Product Detail Page:</h2>
+                <p>Ensuring the product detail page displays all necessary information such as price, reviews, and description.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">7️⃣ Sorting Products:</h2>
+                <p>Checking if products can be sorted by relevance, price, rating, etc.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">8️⃣ Shopping Cart:</h2>
+                <p>Verifying that items can be added to the shopping cart from product pages, and testing updating item quantities and removing items from the cart.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">9️⃣ Checkout Process:</h2>
+                <p>Validating the entire checkout process, including address selection, payment method selection, and order review.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">🔟 Payment Methods:</h2>
+                <p>Checking if the user is able to select each payment method and apply coupon codes during the order process.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">1️⃣1️⃣ Order Rating:</h2>
+                <p>Going to the orders page, clicking on the last ordered product, and giving it a 5-star rating.</p>
+            </li>
+            <li style="margin-bottom: 20px; border: 1px solid #ccc; border-radius: 5px; padding: 10px;">
+                <h2 style="margin-top: 0;">1️⃣2️⃣ Guest Checkout:</h2>
+                <p>Testing if it's possible to reach the cart page without logging in.</p>
+            </li>
+        </ul>
+        <p style="text-align: center;">It's been a rewarding journey of learning and problem-solving. I'm eager to share more about it and open to any feedback or collaboration opportunities!</p>
+    </div>
+</body>
+</html>
